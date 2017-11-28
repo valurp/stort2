@@ -1,1 +1,1 @@
-"# stort2" 
+Stórt verkefni 2
