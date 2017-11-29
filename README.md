@@ -1,4 +1,4 @@
-##Stórt verkefni 2
+#Stórt verkefni 2#
 
 Unnið af Val Pál S. Valssyni (vpv1) og Kára Viðari Jónssyni (kvj1).
 
